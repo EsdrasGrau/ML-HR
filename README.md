@@ -56,7 +56,7 @@ FB Prophet folder:
 
 5. Business Analysis.xlsx
 
-6. 1. dynamic-plot.html
+6. Dynamic-plot.html
 
 Other folders:
 
