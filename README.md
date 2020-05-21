@@ -1,4 +1,6 @@
-![IronHack Logo](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png" /> <img src="https://www.sweet-bakery.co.jp/sites/default/files/logo.png" /></div>
+
+
 
 # FB Prophet (Time Series) Forecasting, practical application
 
