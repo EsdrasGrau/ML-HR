@@ -64,6 +64,11 @@ Other folders:
 2. Tutorials: Basic tutorials from FB Prophet team
 3. Web Scrapping: To obtain weather historical data 
 
+## Next steps
+
+- Deploy FB Prophet in pythonanyware.com using Flask and be able to make consultations on the established model by the staff with a basic UI.
+- Improve the UI and be able to change the hyperparameters according to the necessities of the staff.
+
 ## Author
 
 `EsdrasGrau`
