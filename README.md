@@ -61,6 +61,10 @@ Other folders:
 2. Tutorials: Basic tutorials from FB Prophet team
 3. Web Scrapping: To obtain weather historical data 
 
+## Time 
+
+8 days
+
 ## Author
 
 `EsdrasGrau`
