@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project has the purpose to reduce cost and optimize the resources of a Japanse bakery where I collaborate. [SWEET Co. Bakery](https://www.sweet-bakery.co.jp/) was founded in 1913 in Seattle, USA by a Japanese immigrant that after 10 years decided to move back to his hometown in Matsumoto, Japan. Since then the bakery has been open and run by the same family for 4 generations. 
+This project has the goal to reduce cost and optimize the resources of a Japanse bakery where I collaborate using a TimeSeries predictor FBProphet. [SWEET Co. Bakery](https://www.sweet-bakery.co.jp/) was founded in 1913 in Seattle, USA by a Japanese immigrant that after 10 years decided to move back to his hometown in Matsumoto, Japan. Since then the bakery has been open and run by the same family for 4 generations. 
 
 
 
